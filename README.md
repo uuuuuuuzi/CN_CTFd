@@ -3,4 +3,4 @@
 ![exp](https://user-images.githubusercontent.com/88893395/129918166-fbcbd87d-8753-4ab2-98a0-586bb8ccc949.png)
 
 ## 使用
-直接覆盖ctfd/themes下的两个admin、core文件即可。
+直接覆盖ctfd/themes下的两个admin、core文件即可
